@@ -46,6 +46,12 @@ I am a passionate **Full-Stack Developer** focused on building robust applicatio
 
 </div>
 
+## 🌍 Open Source Contributions
+
+I actively contribute to large-scale, open-source security infrastructure, focusing on modern edge-computing and vanilla JS architectures.
+
+* **[OWASP Foundation (BLT-Next)](https://github.com/OWASP-BLT/BLT-Next/pull/115):** Diagnosed and resolved a fatal local development crash by migrating the deprecated Python Worker API to the modern Cloudflare `WorkerEntrypoint` class standard. This unblocked the entire staging environment for the core development team.
+
 ---
 
 ### 🛠️ Tech Stack
