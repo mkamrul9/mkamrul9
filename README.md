@@ -12,7 +12,7 @@
   <a href="https://portfolio-tau-ten-7qs60ajfcs.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="www.linkedin.com/in/md-kamrul-islam9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mdkamrulislam.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://drive.google.com/file/d/1cpOm7HtzcNkGzItXYykhO_tIySzdpsvy/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1Fd29JTzlh3cMuE4nTxkSRUACqWDqOWPr/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white" /></a>
   <br>
   <a href="https://leetcode.com/u/Kamrul19/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://codeforces.com/profile/blue9"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
