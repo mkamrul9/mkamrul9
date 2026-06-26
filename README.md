@@ -1,100 +1,89 @@
+<!-- Header / Banner Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi,%20I'm%20Kamrul%20Islam&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
-</div>
-
-<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Md.%20Kamrul%20Islam&fontSize=70&desc=Full%20Stack%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=75" width="100%"/>
+  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+Scalable+Web+Apps;Creator+of+StreamShare+CLI;Next.js+%26+PostgreSQL+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Building+Production-Grade+Applications;Open+Source+Contributor+(OWASP);System+Design+%26+High-Scale+Architecture;Competitive+Programmer" alt="Typing SVG" />
   </a>
 </div>
 
-<br />
-
+<!-- Social Links & Badges -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/md-kamrul-islam9" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:cdkamrul9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.npmjs.com/~blue9kamrul" target="_blank">
-    <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  </a>
-</div>
-
-<br />
-
-### 👨‍💻 About Me
-
-I am a passionate **Full-Stack Developer** focused on building robust applications that solve real-world problems. With a strong foundation in the **Next.js ecosystem** and **Backend Architecture**, I love creating tools that empower other developers.
-
-- 🔭 I’m currently working on **Advanced Fire Detection Systems (Thesis)**.
-- 🚀 I recently launched **[StreamShare CLI](https://www.npmjs.com/package/streamshare-cli)**, an open-source tool for developers.
-- 👯 I’m looking to collaborate on **Open Source Projects** & **SaaS Products**.
-- 💬 Ask me about **React Server Components, Prisma ORM, and CLI Development**.
-
----
-
-### 🚀 Featured Projects
-
-<div align="center">
-
-| **Project** | **Description & Tech Stack** |
-| :--- | :--- |
-| <img src="https://via.placeholder.com/200x120.png?text=SkillBridge" width="100%" alt="SkillBridge"/> | **SkillBridge - Full Stack EdTech Platform**<br/>A comprehensive platform designed to bridge the gap between learners and skills.<br/><br/>`Next.js` `Shadcn UI` `Tailwind` `BetterAuth`<br/>`PostgreSQL` `Prisma` `Node.js` `Express`<br/><br/>[![Live Demo](https://img.shields.io/badge/Live_Demo-Success?style=flat-square&logo=vercel&logoColor=white)](https://skillbridge-frontend-phi.vercel.app/) [![GitHub](https://img.shields.io/badge/Code-Black?style=flat-square&logo=github&logoColor=white)](https://github.com/blue9kamrul/skillbridge) |
-| <img src="https://via.placeholder.com/200x120.png?text=StreamShare+CLI" width="100%" alt="StreamShare CLI"/> | **StreamShare CLI - NPM Package**<br/>A raw Node.js command-line interface tool focused on seamless stream sharing capabilities.<br/><br/>`Node.js (Raw)` `CLI Architecture` `NPM Publishing`<br/><br/>[![NPM Version](https://img.shields.io/npm/v/streamshare-cli?style=flat-square&color=CB3837)](https://www.npmjs.com/package/streamshare-cli) [![GitHub](https://img.shields.io/badge/Code-Black?style=flat-square&logo=github&logoColor=white)](https://github.com/blue9kamrul/streamshare-cli) |
-
-</div>
-
-## 🌍 Open Source Contributions
-
-I actively contribute to large-scale, open-source security infrastructure, focusing on modern edge-computing and vanilla JS architectures.
-
-* **[OWASP Foundation (BLT-Next)](https://github.com/OWASP-BLT/BLT-Next/pull/115):** Diagnosed and resolved a fatal local development crash by migrating the deprecated Python Worker API to the modern Cloudflare `WorkerEntrypoint` class standard. This unblocked the entire staging environment for the core development team.
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**<br/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-**Frontend**<br/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-
-**Backend & Database**<br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-**Tools & Environment**<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-
+  <a href="https://portfolio-tau-ten-7qs60ajfcs.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/md-kamrul-islam9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mdkamrulislam.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1cpOm7HtzcNkGzItXYykhO_tIySzdpsvy/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white" /></a>
+  <br>
+  <a href="https://leetcode.com/u/Kamrul19/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://codeforces.com/profile/blue9"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.credly.com/badges/48939e46-8241-441d-ae48-7785480289a1/public_url"><img src="https://img.shields.io/badge/Credly_Certified-F46927?style=for-the-badge&logo=credly&logoColor=white" /></a>
 </div>
 
 ---
 
-### 📊 GitHub Analytics
+### 🚀 About Me
+
+I am a Full Stack Engineer and currently a 4th-year Electrical & Computer Engineering (ECE) undergraduate at RUET. I specialize in building highly scalable, production-grade applications using modern web technologies. Beyond writing code, I am deeply interested in system design, backend architecture, and creating tools that solve real developer problems.
+
+- 🔭 **Experience:** Contributed to the core repositories of the **OWASP BLT** open-source project (Core & Next).
+- 🛠️ **Engineering Focus:** TypeScript, Next.js, PostgreSQL, and building robust APIs with Express/Node.js.
+- 🌱 **Currently Exploring:** Advanced System Design, Load Balancing, and Message Queues.
+- ⚽ **Off-screen:** When I'm not debugging or optimizing queries, you can find me playing football or tending to my rooftop garden.
+- 📱 **Quick Chat:** WhatsApp: `01836306512` | Phone: `01736635727`
+
+---
+
+### 💻 Tech Stack & Tools
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blue9kamrul&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blue9kamrul&theme=midnight-purple&hide_border=true&bg_color=0D1117" alt="Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blue9kamrul&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <br>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div>
 
-<br />
+---
+
+### 🏗️ Featured Projects & Open Source
+
+#### 🌐 Web Platforms & SaaS
+*   **[Funding Panda](https://funding-panda-frontend.vercel.app/)** | [GitHub](https://github.com/mkamrul9/fundingPanda-frontend)
+    *   *Full-stack application featuring Zod validation, BetterAuth, Stripe integration, RBAC, Cloudinary/Multer, and real-time features using Socket.io.*
+    *   *Stack: Node.js, Express, TS, PostgreSQL, Prisma, Next.js, React, TanStack Query, Tailwind, shadcn.*
+*   **[SkillBridge](https://skillbridge-frontend-phi.vercel.app/)** | [GitHub](https://github.com/mkamrul9/SkillBridge-frontend)
+    *   *Comprehensive platform with Role-Based Access Control and complex data fetching using native fetch API and TanStack Form.*
+    *   *Stack: Next.js (App Router), Node, Express, TS, PostgreSQL, Prisma, shadcn.*
+*   **[KanbanSync](https://kanbansync-pc3d.onrender.com/)** | [GitHub](https://github.com/mkamrul9/KanbanSync)
+    *   *Real-time project management tool built in a collaborative 2-person team environment.*
+*   **[Kidraw Canvas App](https://kidraw-canvas-app.vercel.app/)** | [GitHub](https://github.com/mkamrul9/Kidraw-canvas-app)
+    *   *Interactive drawing and canvas web application.*
+
+#### 📦 Developer Tools & NPM Packages
+*   **[StreamShare CLI](https://www.npmjs.com/package/streamshare-cli)**
+    *   *An open-source CLI tool built to solve local Wi-Fi file sharing pain points, enabling fast two-way transfers.*
+*   **[@blue9kamrul/react-cron-scheduler](https://www.npmjs.com/package/@blue9kamrul/react-cron-scheduler)**
+    *   *A flexible React component package published to the NPM registry for scheduling cron jobs.*
+
+#### 📱 Mobile Engineering
+*   **[ScoopCast](https://expo.dev/accounts/mkamrul9/projects/EchoRoute/builds/7808b865-f81c-45d0-b84d-b48909eb1483)** | [GitHub](https://github.com/mkamrul9/ScoopCast)
+    *   *Cross-platform React Native application deployed via Expo.*
+
+---
+
+### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <i>Let's build something amazing together.</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=mkamrul9&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkamrul9&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
+</div>
+
+<div align="center">
+  <i>"I want to be a pioneer in system design, bridging the gap between standard projects and high-scale production architecture."</i>
 </div>
